@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleDynamicModuleCase</string>
+    <string name="title_dynamicfeature1">Dynamic Module1</string>
+    <string name="title_dynamicfeature2">Dynamic Module2</string>
+</resources>
