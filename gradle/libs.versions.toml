@@ -24,4 +24,5 @@ timber = { module = "com.jakewharton.timber:timber", version.ref = "timber" }
 androidApplication = { id = "com.android.application", version.ref = "agp" }
 jetbrainsKotlinAndroid = { id = "org.jetbrains.kotlin.android", version.ref = "kotlin" }
 androidDynamicFeature = { id = "com.android.dynamic-feature", version.ref = "agp" }
+androidLibrary = { id = "com.android.library", version.ref = "agp" }
 

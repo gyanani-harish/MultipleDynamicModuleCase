@@ -25,11 +25,12 @@ android {
 
 dependencies {
     implementation(project(":app"))
+    implementation(project(":timberlib"))
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
     androidTestImplementation(libs.androidx.espresso.core)
     androidTestImplementation(libs.androidx.annotation)
-    implementation(libs.timber)
+    //implementation(libs.timber)
 }
